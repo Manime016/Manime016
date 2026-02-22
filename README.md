@@ -56,7 +56,7 @@ Production-style architecture with:
 ✔ Responsive UI  
 
 🔗 Repository:  
-https://github.com/your-username/your-repo-name
+https://github.com/Manime018/ecomm.git
 
 ---
 
@@ -80,14 +80,6 @@ https://github.com/your-username/your-repo-name
 </p>
 
 ---
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
 
 ---
 
