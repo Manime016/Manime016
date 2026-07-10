@@ -1,103 +1,152 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋 I'm Mani</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Production-Ready Applications</h3>
+
+<h3 align="center">
+Full Stack Developer | Java • Spring Boot • React • MySQL
+</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Building secure, scalable web applications with modern technologies.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manime016&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently building a **Full Stack E-Commerce Platform**
-- 💳 Integrated **Razorpay Payment Gateway**
-- 🔐 Implemented **JWT Authentication**
-- 🛒 Built Cart, Checkout, Order Tracking & Admin Dashboard
-- 🎯 Focused on writing clean, scalable backend systems
+- 🎓 MCA Student
+- 💻 Full Stack Developer
+- 🌱 Currently learning **Spring Boot** and advanced backend development
+- 🔐 Interested in **Cyber Security** and Secure Web Applications
+- ⚡ Passionate about building real-world management systems
+- 🎯 Looking for Full Stack Developer opportunities
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Frontend
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
 </p>
 
-### ⚙ Backend
+### Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
 </p>
 
-### 🔧 Tools
+### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,js,python"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,mysql"/>
 </p>
 
 ---
 
-## 🛒 Featured Project
+# 🚀 Featured Projects
 
-### 🔥 MERN E-Commerce Application
+## 🖥️ AssetHub
 
-Production-style architecture with:
+A complete Asset Management System developed using Flask and MySQL.
 
-✔ Authentication (JWT)  
-✔ Role-based access  
-✔ Razorpay Integration  
-✔ Dynamic Cart System  
-✔ Coupon System  
-✔ Order Tracking  
-✔ Admin Panel  
-✔ Responsive UI  
+### Features
 
-🔗 Repository:  
-https://github.com/Manime018/ecomm.git
+- Employee Management
+- Asset Management
+- Asset Assignment & Return
+- Admin Management
+- Authentication
+- Search & Filter
+- Contact Management
+- Responsive Dashboard
 
 ---
 
-## 📊 GitHub Performance
+## 🔐 Net Suraksha Hub
+
+A Cyber Security Awareness Portal built using React, Spring Boot and MySQL.
+
+### Features
+
+- User Authentication
+- Cyber Crime Complaint Portal
+- Learning Modules
+- Online Assessment
+- Certificate Generation
+- Admin Dashboard
+
+---
+
+## 🛒 MERN E-Commerce
+
+Production-style E-Commerce Application featuring
+
+- JWT Authentication
+- Shopping Cart
+- Razorpay Integration
+- Order Management
+- Admin Dashboard
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manime016&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manime016&theme=tokyonight&hide_border=true" height="165"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Manime016&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Manime016&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manime016&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manime016&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manime016&theme=tokyonight"/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manime016&theme=tokyonight"/>
+
 </p>
 
 ---
 
+# 📫 Connect With Me
+
+<p>
+
+- GitHub: https://github.com/Manime016
+
+</p>
+
 ---
 
 <p align="center">
-  ⚡ "I don’t just build features. I build systems."
-</p>## Hi there 👋
 
-<!--
-**Manime016/Manime016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>“Good software is not just about writing code—it's about solving problems.”</b>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
