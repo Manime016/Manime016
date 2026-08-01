@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋 I'm Mani</h1>
 
 <h3 align="center">
-Full Stack Developer | Java • Spring Boot • React • MySQL
+Full Stack Developer | python• React • MySQL
 </h3>
 
 <p align="center">
