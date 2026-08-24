@@ -10,10 +10,10 @@ Building practical backend systems, REST APIs and database-driven applications w
 
 <p align="center">
   <a href="https://github.com/Manime016">
-    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:lmanikanta016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -25,9 +25,9 @@ I'm an MCA graduate focused on Python backend development.
 
 I build backend applications using **Python, FastAPI, Flask, MySQL and MongoDB**, with an emphasis on REST API design, authentication, database integration and maintainable application architecture.
 
-My projects include an asset management system built with Flask and MySQL and an e-commerce backend built with FastAPI and MongoDB.
+My main projects include an asset management system built with Flask and MySQL and an e-commerce backend built with FastAPI and MongoDB.
 
-Currently strengthening my knowledge of:
+Currently strengthening my skills in:
 
 - Backend architecture
 - REST API development
@@ -45,7 +45,7 @@ Currently strengthening my knowledge of:
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" alt="Python FastAPI Flask" />
 </p>
 
 **Python • FastAPI • Flask • REST APIs • Pydantic • Jinja2 • OOP**
@@ -53,7 +53,7 @@ Currently strengthening my knowledge of:
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL MongoDB" />
 </p>
 
 **MySQL • MongoDB • SQL • CRUD • Database Design**
@@ -61,7 +61,7 @@ Currently strengthening my knowledge of:
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="React JavaScript HTML CSS" />
 </p>
 
 **React • JavaScript • HTML • CSS**
@@ -69,7 +69,7 @@ Currently strengthening my knowledge of:
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git GitHub VS Code Postman" />
 </p>
 
 **Git • GitHub • VS Code • Postman**
@@ -96,8 +96,7 @@ A database-driven asset management system for managing employees, company assets
 - MySQL database integration
 - Modular Flask Blueprint architecture
 
-🔗 **Repository:**  
-https://github.com/Manime016/AssetHub
+🔗 **Repository:** https://github.com/Manime016/AssetHub
 
 ---
 
@@ -120,8 +119,7 @@ A backend-focused e-commerce application implementing real-world shopping and or
 - Middleware and error handling
 - Modular backend architecture
 
-🔗 **Repository:**  
-https://github.com/Manime016/ecomm
+🔗 **Repository:** https://github.com/Manime016/ecomm
 
 ---
 
@@ -140,8 +138,7 @@ A full-stack booking application combining a Python backend, MySQL database and 
 - React frontend
 - Frontend-backend integration
 
-🔗 **Repository:**  
-https://github.com/Manime016/BookNow
+🔗 **Repository:** https://github.com/Manime016/BookNow
 
 ---
 
@@ -161,14 +158,14 @@ I practice Data Structures & Algorithms using Python.
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📌 Currently Working On
 
 - Improving Python backend architecture
 - Building and improving REST APIs
 - Strengthening MySQL and MongoDB skills
 - Practicing DSA with Python
 - Improving testing and debugging practices
-- Building more production-oriented backend projects
+- Building production-oriented backend projects
 
 ---
 
@@ -176,10 +173,10 @@ I practice Data Structures & Algorithms using Python.
 
 <p>
   <a href="https://github.com/Manime016">
-    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:lmanikanta016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lmanikanta016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-lmanikanta016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
