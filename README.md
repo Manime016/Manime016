@@ -1,295 +1,194 @@
-<h1 align="center">Hi 👋, I'm Mani</h1>
+<h1 align="center">Hi, I'm Mani 👋</h1>
 
 <h3 align="center">
-Python Backend Developer | Python • DSA • MySQL • REST APIs • React
+Python Backend Developer | FastAPI • Flask • MySQL • MongoDB • REST APIs
 </h3>
 
 <p align="center">
-Building practical backend systems and database-driven web applications with Python.
+Building practical backend systems, REST APIs and database-driven applications with Python.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manime016&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-  <li>💻 Python Backend Developer</li>
-  <li>🐍 Focused on Python backend development and REST APIs</li>
-  <li>🧠 Strengthening Data Structures & Algorithms using Python</li>
-  <li>🗄️ Experienced with MySQL and database-driven applications</li>
-  <li>⚛️ Using React for building modern frontend interfaces</li>
-  <li>🔧 Interested in writing clean, maintainable and scalable backend systems</li>
-  <li>🎯 Looking for opportunities as a Python Backend Developer</li>
-</ul>
-
----
-
-<h2>🛠️ Tech Stack</h2>
-
-<h3>🐍 Backend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi" alt="Python Flask FastAPI"/>
-</p>
-
-<p>
-  <b>Python • Flask • FastAPI • REST APIs • OOP</b>
-</p>
-
-<h3>🧠 Problem Solving</h3>
-
-<p>
-  <b>Data Structures & Algorithms • Problem Solving • Algorithms • Python</b>
-</p>
-
-<h3>🗄️ Database</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-</p>
-
-<p>
-  <b>MySQL • SQL • CRUD • Database Design • Relational Databases</b>
-</p>
-
-<h3>⚛️ Frontend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" alt="React HTML CSS JavaScript"/>
-</p>
-
-<p>
-  <b>React • JavaScript • HTML • CSS</b>
-</p>
-
-<h3>🔧 Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git GitHub VS Code Postman"/>
-</p>
-
-<p>
-  <b>Git • GitHub • VS Code • Postman</b>
-</p>
-
----
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🖥️ AssetHub</h3>
-
-<p>
-  <b>Python • Flask • MySQL • HTML • CSS • JavaScript</b>
-</p>
-
-<p>
-  A database-driven Asset Management System designed to manage employees,
-  company assets and asset assignments through a centralized web application.
-</p>
-
-<h4>Key Features</h4>
-
-<ul>
-  <li>Employee Management</li>
-  <li>Asset Management</li>
-  <li>Asset Assignment & Return</li>
-  <li>Admin Management</li>
-  <li>Authentication</li>
-  <li>Search & Filtering</li>
-  <li>Contact Management</li>
-  <li>Dashboard</li>
-  <li>MySQL Database Integration</li>
-</ul>
-
-<p>
-  <a href="https://github.com/Manime016/AssetHub">
-    🔗 View Project
+  <a href="https://github.com/Manime016">
+    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:lmanikanta016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3>🎟️ BookNow</h3>
+## 👨‍💻 About Me
 
-<p>
-  <b>Python • MySQL • React</b>
-</p>
+I'm an MCA graduate focused on Python backend development.
 
-<p>
-  A full-stack booking application combining a Python backend,
-  MySQL database and React frontend to provide a structured
-  booking workflow.
-</p>
+I build backend applications using **Python, FastAPI, Flask, MySQL and MongoDB**, with an emphasis on REST API design, authentication, database integration and maintainable application architecture.
 
-<h4>Key Features</h4>
+My projects include an asset management system built with Flask and MySQL and an e-commerce backend built with FastAPI and MongoDB.
 
-<ul>
-  <li>Booking Management</li>
-  <li>Python Backend</li>
-  <li>MySQL Database</li>
-  <li>React Frontend</li>
-  <li>Frontend–Backend Integration</li>
-  <li>Database-driven Application</li>
-</ul>
+Currently strengthening my knowledge of:
 
-<p>
-  <a href="https://github.com/Manime016/BookNow">
-    🔗 View Project
-  </a>
-</p>
+- Backend architecture
+- REST API development
+- SQL and database design
+- Data Structures & Algorithms
+- Testing and debugging
+- Software development practices
+
+🎯 **Looking for:** Python Backend Developer / Junior Backend Developer / Software Engineer opportunities.
 
 ---
 
-<h3>🛒 E-Commerce Application</h3>
+## 🛠️ Technical Skills
+
+### Backend
 
 <p>
-  <b>Python • React • MySQL • REST API</b>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
 </p>
+
+**Python • FastAPI • Flask • REST APIs • Pydantic • Jinja2 • OOP**
+
+### Databases
 
 <p>
-  A full-stack e-commerce application with a Python-based backend
-  and React frontend, focused on real-world shopping and
-  order-management workflows.
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-<h4>Key Features</h4>
+**MySQL • MongoDB • SQL • CRUD • Database Design**
 
-<ul>
-  <li>User Authentication</li>
-  <li>Product Management</li>
-  <li>Shopping Cart</li>
-  <li>Order Management</li>
-  <li>Payment Integration</li>
-  <li>Admin Dashboard</li>
-  <li>REST API</li>
-  <li>MySQL Database</li>
-  <li>React Frontend</li>
-</ul>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+**React • JavaScript • HTML • CSS**
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+**Git • GitHub • VS Code • Postman**
 
 ---
 
-<h3>🔐 Image Steganography Studio</h3>
+## 🚀 Featured Projects
 
-<p>
-  <b>Python</b>
-</p>
+### 🏢 AssetHub
 
-<p>
-  A Python-based application for hiding and extracting information
-  inside images using steganography techniques.
-</p>
+**Flask • MySQL • Jinja2 • JavaScript • HTML • CSS**
 
-<h4>Key Features</h4>
+A database-driven asset management system for managing employees, company assets and asset assignments.
 
-<ul>
-  <li>Hide secret messages inside images</li>
-  <li>Extract hidden messages</li>
-  <li>Image-based data processing</li>
-  <li>Python application development</li>
-</ul>
+**Key areas:**
 
-<p>
-  <a href="https://github.com/Manime016/ImageSteganographyStudio">
-    🔗 View Project
-  </a>
-</p>
+- Employee management
+- Asset management
+- Asset assignment and return
+- Admin management
+- Authentication
+- Search and filtering
+- Dashboard
+- MySQL database integration
+- Modular Flask Blueprint architecture
+
+🔗 **Repository:**  
+https://github.com/Manime016/AssetHub
 
 ---
 
-<h2>🧠 DSA With Python</h2>
+### 🛒 E-Commerce Backend
 
-<p>
-  I am continuously improving my problem-solving skills by
-  practicing Data Structures and Algorithms using Python.
-</p>
+**FastAPI • MongoDB • Pydantic • JWT • Razorpay**
 
-<table>
-  <tr>
-    <td>Arrays</td>
-    <td>Strings</td>
-    <td>Hashing</td>
-    <td>Two Pointers</td>
-  </tr>
-  <tr>
-    <td>Sliding Window</td>
-    <td>Stack</td>
-    <td>Queue</td>
-    <td>Linked Lists</td>
-  </tr>
-  <tr>
-    <td>Recursion</td>
-    <td>Sorting</td>
-    <td>Searching</td>
-    <td>Trees</td>
-  </tr>
-  <tr>
-    <td>Graphs</td>
-    <td>Greedy</td>
-    <td>Dynamic Programming</td>
-    <td>Problem Solving</td>
-  </tr>
-</table>
+A backend-focused e-commerce application implementing real-world shopping and order-management workflows.
+
+**Key areas:**
+
+- User authentication
+- JWT-based authorization
+- Product management
+- Shopping cart
+- Order management
+- Coupon management
+- Payment integration
+- Request/response validation
+- Middleware and error handling
+- Modular backend architecture
+
+🔗 **Repository:**  
+https://github.com/Manime016/ecomm
 
 ---
 
-<h2>📊 GitHub Statistics</h2>
+### 🎟️ BookNow
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Manime016&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
+**Python • MySQL • React**
 
-<img
- height="170"
- src="https://github-readme-streak-stats.herokuapp.com/?user=Manime016&theme=tokyonight&hide_border=true"
- alt="GitHub Streak"
-/>
+A full-stack booking application combining a Python backend, MySQL database and React frontend.
 
-</p>
+**Key areas:**
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manime016&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+- Booking management
+- Database-driven workflows
+- Python backend
+- MySQL integration
+- React frontend
+- Frontend-backend integration
+
+🔗 **Repository:**  
+https://github.com/Manime016/BookNow
 
 ---
 
-<h2>📈 Contribution Graph</h2>
+## 🧠 Problem Solving
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manime016&theme=tokyonight"
-    alt="Contribution Graph"
-  />
-</p>
+I practice Data Structures & Algorithms using Python.
+
+**Currently working with:**
+
+`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window`
+
+`Stack` • `Queue` • `Linked List` • `Recursion`
+
+`Sorting` • `Searching` • `Trees` • `Graphs`
+
+`Greedy` • `Dynamic Programming`
 
 ---
 
-<h2>📫 Connect With Me</h2>
+## 📌 What I'm Currently Working On
+
+- Improving Python backend architecture
+- Building and improving REST APIs
+- Strengthening MySQL and MongoDB skills
+- Practicing DSA with Python
+- Improving testing and debugging practices
+- Building more production-oriented backend projects
+
+---
+
+## 📫 Connect
 
 <p>
   <a href="https://github.com/Manime016">
-    <img
-      src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Manime016-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:lmanikanta016@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lmanikanta016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Python • DSA • MySQL • Backend Development</b>
+  <b>Python • FastAPI • Flask • MySQL • MongoDB • REST APIs</b>
 </p>
 
 <p align="center">
-  Building practical software and solving real-world problems with code.
+  Building practical software and improving one project at a time.
 </p>
